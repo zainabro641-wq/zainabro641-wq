@@ -14,10 +14,12 @@
 
 ---
 
-## 💻 Tech Stack
 
 ## 🌐 Socials:
-[![Instagram]https://www.instagram.com/zain._.abro?igsh=YTJiY2c3MW1rZg%3D%3D&utm_source=qr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zainabro641@gmail.com) 
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zainabro641@gmail.com) 
+
+---
 
 ## 💻 Tech Stack:
 

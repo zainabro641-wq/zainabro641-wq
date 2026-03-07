@@ -12,6 +12,15 @@
 ## 💫 About Me:
 - Passionate Full Stack Developer with 2 years experience🏎️  | JavaScript | [React,Angular] |  PHP [Laravel] | Web Developer🚀. 1 Year of experience as a Python 🥇.
 
+---
+
+## 🛠️ Technologies & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode"/>
+</p>
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zain_abro1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/zain-abro-38a9593aa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zain_abro1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zainabro641@gmail.com) 

@@ -43,6 +43,12 @@
 
 ---
 
+## 📈 Contribution Activity Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zainabro641-wq&theme=tokyo-night)
+
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zainabro641-wq&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 

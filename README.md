@@ -1,4 +1,12 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Zain Abro</h1>
+
+<h3 align="center">Frontend Developer | React Learner | Web Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Learner;JavaScript+Enthusiast;Building+Responsive+Websites&center=true&width=500&height=45">
+</p>
+---
+## 💫 About Me:
 - Passionate Full Stack Developer with 2 years experience🏎️  | JavaScript | [React,Angular] |  PHP [Laravel] | Web Developer🚀. 1 Year of experience as a Python 🥇.
 
 

@@ -44,7 +44,15 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zainabro641-wq&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=zainabro641-wq&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
+
+---
+
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zainabro641-wq&layout=compact&theme=tokyonight)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

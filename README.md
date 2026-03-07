@@ -12,9 +12,6 @@
 ## 💫 About Me:
 - Passionate Full Stack Developer with 2 years experience🏎️  | JavaScript | [React,Angular] |  PHP [Laravel] | Web Developer🚀. 1 Year of experience as a Python 🥇.
 
----
-
-## 🛠️ Technologies & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode"/>
@@ -34,6 +31,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=zainabro641-wq&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zainabro641-wq&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zainabro641-wq&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zainabro641-wq&show_icons=true&theme=tokyonight)
 
 ---
 
